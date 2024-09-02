@@ -2,18 +2,33 @@
   "name": "scribex-editor",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
+  "main": "server.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start:dev": "",
+    "start": "",
+    "server": "",
+    "build": "",
+    "install": "",
+    "client": ""
   },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/trishamasbate/scribex-editor.git"
   },
+  "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/trishamasbate/scribex-editor/issues"
   },
-  "homepage": "https://github.com/trishamasbate/scribex-editor#readme"
+  "homepage": "https://github.com/trishamasbate/scribex-editor#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "if-env": "^1.0.4"
+  },
+  "devDependencies": {
+    "concurrently": "^5.2.0",
+    "nodemon": "^2.0.4"
+  }
 }
