@@ -1,4 +1,4 @@
-#✍🏻 ScribeX: A Text Editor
+# ✍🏻 ScribeX: A Text Editor
 
 [![github-follow](https://img.shields.io/github/followers/trishamasbate?label=Follow&logoColor=purple&style=social)](https://github.com/trishamasbate)
 [![license](https://img.shields.io/badge/License-MIT-brightgreen.svg)](https://choosealicense.com/licenses/mit/)
@@ -8,15 +8,16 @@
 **ScribeX**
 
 ## 📌 Table of Contents
-- [📃 Description:](#-description)
-- [📌 Table of Contents](#-table-of-contents)
-- [🔎 User Story](#-user-story)
-- [✅ Acceptance Criteria](#-acceptance-criteria)
-- [💡 Usage and Installation Instructions](#-usage-and-installation-instructions)
-- [🎞️ Previews and Walkthrough Videos:](#️-previews-and-walkthrough-videos)
-- [🗝️ Resources](#️-resources)
-- [❓ Questions](#-questions)
-- [🪪 License](#-license)
+- [✍🏻 ScribeX: A Text Editor](#-scribex-a-text-editor)
+  - [📃 Description:](#-description)
+  - [📌 Table of Contents](#-table-of-contents)
+  - [🔎 User Story](#-user-story)
+  - [✅ Acceptance Criteria](#-acceptance-criteria)
+  - [💡 Usage and Installation Instructions](#-usage-and-installation-instructions)
+  - [🎞️ Previews and Walkthrough Videos:](#️-previews-and-walkthrough-videos)
+  - [🗝️ Resources](#️-resources)
+  - [❓ Questions](#-questions)
+  - [🪪 License](#-license)
 
 ## 🔎 User Story
 ```md
