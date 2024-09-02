@@ -92,6 +92,7 @@ THEN I should have proper build scripts for a webpack application.
 ## 🗝️ Resources
 - Dynamic JavaScript
 - License Badge: [Shields.io](https://shields.io/)
+- [Render](https://coding-boot-camp.github.io/full-stack/render/render-deployment-guide)
 - [dotenv Version 8.6.0](https://www.npmjs.com/package/dotenv)
 - [bycrypt Version 7.0.4](https://www.npmjs.com/package/bcrypt)
 - [Express.js Version 4.17.1](https://www.npmjs.com/package/express)
