@@ -128,3 +128,16 @@ dist
 .yarn/build-state.yml
 .yarn/install-state.gz
 .pnp.*
+
+# dotenv environment variables file
+.env
+
+# next.js build output
+.next
+
+# Lerna
+lerna-debug.log
+
+# System Files
+.DS_Store
+Thumbs.db
