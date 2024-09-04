@@ -14,6 +14,11 @@
   - [🔎 User Story](#-user-story)
   - [✅ Acceptance Criteria](#-acceptance-criteria)
   - [💡 Usage and Installation Instructions](#-usage-and-installation-instructions)
+      - [1. Clone the Repository](#1-clone-the-repository)
+      - [2. Navigate to the Project Directory and Install Dependencies](#2-navigate-to-the-project-directory-and-install-dependencies)
+      - [3. Build the Application](#3-build-the-application)
+      - [4. Start the Development Server](#4-start-the-development-server)
+      - [5. Open the Application](#5-open-the-application)
   - [🎞️ Previews and Walkthrough Videos:](#️-previews-and-walkthrough-videos)
   - [🗝️ Resources](#️-resources)
   - [❓ Questions](#-questions)
@@ -62,12 +67,60 @@ THEN I should have proper build scripts for a webpack application.
 
 ✨ **Using the GitHub Repository:**
 
-1.	Launch an integrated terminal directly from your editor.
-2.  Install the necessary packages to initialize the application. You can also execute the command `npm install`.
-3.  Seed the created database with test data by executing the seed command as declared in the package.json file.
-4.	Run the `npm start` command to start the Express server.
-5.  Test the functionality of the application by using Render.
 
+To get started with ScribeX, follow these steps:
+
+#### 1. Clone the Repository
+First, clone the ScribeX repository to your local machine:
+
+```md
+git clone https://github.com/trishamasbate/scribex-editor
+```
+
+#### 2. Navigate to the Project Directory and Install Dependencies
+Once the repository is cloned, move into the project directory. Then, you will need to install the required dependencies for both the client and server:
+
+  - Navigate to the client directory and install dependencies:
+
+```md
+cd client
+npm install
+```
+
+  - Next, navigate to the server directory and install its dependencies:
+
+```md
+cd ../server
+npm install
+```
+
+  - Finally, go back to the root directory and install any additional dependencies:
+
+```md
+cd ..
+npm install
+```
+
+#### 3. Build the Application
+To prepare the application for production, run the build script:
+
+```md
+npm run build
+```
+
+#### 4. Start the Development Server
+To run the application in development mode, start the server with the following command:
+
+```md
+npm run start:dev
+```
+
+#### 5. Open the Application
+After starting the server, open your web browser and navigate to:
+
+```md
+http://localhost:3000
+```
 
 ## 🎞️ Previews and Walkthrough Videos:
 
@@ -85,6 +138,11 @@ THEN I should have proper build scripts for a webpack application.
 - [Render](https://coding-boot-camp.github.io/full-stack/render/render-deployment-guide)
 - [Express.js Version 4.17.1](https://www.npmjs.com/package/express)
 - [if-env Version 1.0.4](https://www.npmjs.com/package/if-env)
+- [IndexedDB API](https://developer.mozilla.org/en-US/docs/Web/API/IndexedDB_API)
+- [idb](https://www.npmjs.com/package/idb)
+- [Nodemon Version 2.0.4](https://www.npmjs.com/package/nodemon)
+- [Concurrently Version 5.2.0](https://www.npmjs.com/package/concurrently)
+- [Service Workers](https://developer.mozilla.org/en-US/docs/Web/API/Service_Worker_API)
 - [Visual Studio Code](https://code.visualstudio.com/)
 
 
