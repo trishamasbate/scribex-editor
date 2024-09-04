@@ -19,6 +19,8 @@ Introducing **ScribeX**, the ultimate single-page text editor that works whereve
       - [4. Start the Development Server](#4-start-the-development-server)
       - [5. Open the Application](#5-open-the-application)
   - [🎞️ Previews and Walkthrough Videos:](#️-previews-and-walkthrough-videos)
+    - [Preview](#preview)
+    - [Click on the links below](#click-on-the-links-below)
   - [🗝️ Resources](#️-resources)
   - [❓ Questions](#-questions)
   - [🪪 License](#-license)
@@ -123,12 +125,24 @@ http://localhost:3000
 
 ## 🎞️ Previews and Walkthrough Videos:
 
-**Preview**
-![](./public/) 
+### Preview
 
-**Click on the links below**
-- [ScribeX Walkthrough Online]()
-- [ScribeX Walkthrough on VSCode Terminal]()
+  - ### *ScribeX Landing Page*
+![](./assets/images/img-1.png)
+
+  - ### *The `manifest.json` File*
+![](./assets/images/img-2.png) 
+
+  - ### *The Registered Service Worker*
+![](./assets/images/img-3.png)
+
+  - ### *The IndexedDB Storage*
+![](./assets/images/img-4.png)
+
+
+### Click on the links below
+- [ScribeX Walkthrough Online](https://youtu.be/LBrFR2zFau4?si=1TE9E16M8DYwcd_O)
+- [ScribeX Walkthrough on VSCode Terminal](https://youtu.be/MDgyh_vW4ps?si=dX4QfV2MTmWIRWzZ)
 
 ## 🗝️ Resources
 - Dynamic JavaScript
