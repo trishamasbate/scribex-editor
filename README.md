@@ -75,7 +75,7 @@ To get started with ScribeX, follow these steps:
 First, clone the ScribeX repository to your local machine:
 
 ```md
-git clone https://github.com/trishamasbate/scribex-editor
+git clone git@github.com:trishamasbate/scribex-editor.git
 ```
 
 #### 2. Navigate to the Project Directory and Install Dependencies
