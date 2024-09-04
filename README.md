@@ -62,10 +62,10 @@ THEN I should have proper build scripts for a webpack application.
 ## 💡 Usage and Installation Instructions
 ✨ **Using Render:**
 
-[ScribeX Website]()
+[ScribeX Website](https://scribex-editor.onrender.com/)
+
 
 ✨ **Using the GitHub Repository:**
-
 
 To get started with ScribeX, follow these steps:
 
