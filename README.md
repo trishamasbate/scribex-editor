@@ -3,9 +3,8 @@
 [![github-follow](https://img.shields.io/github/followers/trishamasbate?label=Follow&logoColor=purple&style=social)](https://github.com/trishamasbate)
 [![license](https://img.shields.io/badge/License-MIT-brightgreen.svg)](https://choosealicense.com/licenses/mit/)
 
-
 ## 📃 Description:
-**ScribeX**
+Introducing **ScribeX**, the ultimate single-page text editor that works wherever you do—online or offline. As a Progressive Web Application (PWA), ScribeX ensures your work is always secure and accessible, even without an internet connection. Powered by IndexedDB and optimized with the idb package, it offers lightning-fast performance and reliable data storage, no matter which browser you're using. Designed to meet the highest PWA standards, ScribeX keeps your workflow uninterrupted, so you can focus on creating, anytime, anywhere.
 
 ## 📌 Table of Contents
 - [✍🏻 ScribeX: A Text Editor](#-scribex-a-text-editor)
